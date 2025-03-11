@@ -17,7 +17,19 @@ A fully functional **Flipkart-like e-commerce platform** built using **MERN Stac
 
 ## 📷 Screenshots  
 
-(Add some images or GIFs showing UI, cart, checkout, and payment process.)
+![image](https://github.com/user-attachments/assets/4431f78c-492f-4b7b-9654-5f96986a6028)
+![image](https://github.com/user-attachments/assets/ca622811-f653-44a3-a152-e59b76ce2dcb)
+![image](https://github.com/user-attachments/assets/9df4cfe7-693c-48b9-9e48-3c1ca716aea9)
+![image](https://github.com/user-attachments/assets/d24557ef-420f-4f2f-bc97-9ad65a2bdedc)
+![image](https://github.com/user-attachments/assets/93cb2082-2939-42da-a8ab-413db25ad4f7)
+![image](https://github.com/user-attachments/assets/f32bb781-5591-4244-88b1-36eba0cbcad0)
+![image](https://github.com/user-attachments/assets/7e8cf4c0-8af0-4c86-9614-df7ca32ad256)
+
+
+
+
+
+
 
 ---
 
