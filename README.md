@@ -28,14 +28,13 @@ A fully functional **Flipkart-like e-commerce platform** built using **MERN Stac
 - Redux Toolkit (State Management)
 - React Router DOM (Navigation)
 - Axios (API calls)
-- TailwindCSS / Material UI (for Styling)
+- Material UI (for Styling)
 
 ### **Backend (Node.js & Express)**
 - Node.js
 - Express.js
 - MongoDB with Mongoose (Database)
 - JWT (Authentication)
-- Bcrypt.js (Password Hashing)
 - Paytm Payment Gateway
 
 ---
