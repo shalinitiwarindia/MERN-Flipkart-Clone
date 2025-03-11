@@ -24,6 +24,8 @@ A fully functional **Flipkart-like e-commerce platform** built using **MERN Stac
 ![image](https://github.com/user-attachments/assets/93cb2082-2939-42da-a8ab-413db25ad4f7)
 ![image](https://github.com/user-attachments/assets/f32bb781-5591-4244-88b1-36eba0cbcad0)
 ![image](https://github.com/user-attachments/assets/7e8cf4c0-8af0-4c86-9614-df7ca32ad256)
+![image](https://github.com/user-attachments/assets/0a8128b5-3b57-430f-a822-d32c6a24efbf)
+
 
 
 
