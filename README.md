@@ -3,7 +3,7 @@
 
 A fully functional **Flipkart-like e-commerce platform** built using **MERN Stack** (**MongoDB, Express.js, React.js, Node.js**) with **Paytm Payment Gateway integration** for seamless transactions.
 
-## 🚀 Features
+
 
 ✅ **User Authentication (Signup/Login using JWT)**  
 ✅ **Product Listings with Search & Filters**  
