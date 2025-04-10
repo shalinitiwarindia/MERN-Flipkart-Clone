@@ -1,5 +1,4 @@
 
-# 🛒 MERN Flipkart Clone with Paytm Payment Gateway
 
 A fully functional **Flipkart-like e-commerce platform** built using **MERN Stack** (**MongoDB, Express.js, React.js, Node.js**) with **Paytm Payment Gateway integration** for seamless transactions.
 
